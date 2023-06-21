@@ -1,0 +1,12 @@
+*MATEMÁTICA
+
+1.Quantas casas decimais tem o número pi?
+a) Duas
+b) Centenas
+c) Infinitas
+d) Vinte
+e) Milhares
+
+R: C- Infinitas.
+
+Ao longo dos tempos, vários estudiosos têm se dedicado a calcular o número pi e já chegaram ao número de 62,8 trilhões de casas decimais.
